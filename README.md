@@ -2,8 +2,11 @@
 # 📊 DataFlix: Uncovering Patterns in the Film Industry
 
 **Authors**: Shamika Karnik 
+
 **Course**: Data Visualization  
+
 **Semester**: Spring 2025
+
 **Project Period**: Jan – Apr 2025
 
 ---
